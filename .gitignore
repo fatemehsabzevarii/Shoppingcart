@@ -1,0 +1,8 @@
+logs/*
+product.egg-info/*
+app.log
+.idea
+__pycache__
+temp*
+.env
+.coverage*
